@@ -27,6 +27,8 @@ namespace NinjaJeu
         List<Rectangle> listeShuriken = new List<Rectangle>();
         Random aleatoire = new Random();
 
+        //test github modif
+
         public MainWindow()
         {
             InitializeComponent();
